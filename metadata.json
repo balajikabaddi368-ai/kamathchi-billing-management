@@ -1,0 +1,6 @@
+{
+  "name": "SRI KAMATHCHI OILL & FLOUR MILL",
+  "description": "Android-style business management, inventory, voice billing, POS, GST invoicing, customer online storefront, credit ledger, and profit analytics for SRI KAMATHCHI OILL & FLOUR MILL.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
